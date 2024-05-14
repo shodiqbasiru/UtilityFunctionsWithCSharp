@@ -1,0 +1,14 @@
+/home/shodiqbasiru/Documents/ngoding/C#/UtilityFunction/UtilityFunction/bin/Debug/net8.0/UtilityFunction
+/home/shodiqbasiru/Documents/ngoding/C#/UtilityFunction/UtilityFunction/bin/Debug/net8.0/UtilityFunction.deps.json
+/home/shodiqbasiru/Documents/ngoding/C#/UtilityFunction/UtilityFunction/bin/Debug/net8.0/UtilityFunction.runtimeconfig.json
+/home/shodiqbasiru/Documents/ngoding/C#/UtilityFunction/UtilityFunction/bin/Debug/net8.0/UtilityFunction.dll
+/home/shodiqbasiru/Documents/ngoding/C#/UtilityFunction/UtilityFunction/bin/Debug/net8.0/UtilityFunction.pdb
+/home/shodiqbasiru/Documents/ngoding/C#/UtilityFunction/UtilityFunction/obj/Debug/net8.0/UtilityFunction.GeneratedMSBuildEditorConfig.editorconfig
+/home/shodiqbasiru/Documents/ngoding/C#/UtilityFunction/UtilityFunction/obj/Debug/net8.0/UtilityFunction.AssemblyInfoInputs.cache
+/home/shodiqbasiru/Documents/ngoding/C#/UtilityFunction/UtilityFunction/obj/Debug/net8.0/UtilityFunction.AssemblyInfo.cs
+/home/shodiqbasiru/Documents/ngoding/C#/UtilityFunction/UtilityFunction/obj/Debug/net8.0/UtilityFunction.csproj.CoreCompileInputs.cache
+/home/shodiqbasiru/Documents/ngoding/C#/UtilityFunction/UtilityFunction/obj/Debug/net8.0/UtilityFunction.dll
+/home/shodiqbasiru/Documents/ngoding/C#/UtilityFunction/UtilityFunction/obj/Debug/net8.0/refint/UtilityFunction.dll
+/home/shodiqbasiru/Documents/ngoding/C#/UtilityFunction/UtilityFunction/obj/Debug/net8.0/UtilityFunction.pdb
+/home/shodiqbasiru/Documents/ngoding/C#/UtilityFunction/UtilityFunction/obj/Debug/net8.0/UtilityFunction.genruntimeconfig.cache
+/home/shodiqbasiru/Documents/ngoding/C#/UtilityFunction/UtilityFunction/obj/Debug/net8.0/ref/UtilityFunction.dll
